@@ -11,6 +11,7 @@ remote_theme_layouts:
   - page
   - post
   - home
+  - category_index
 baseurl: /crapulous_stylist
 social_links:
   - twitter
