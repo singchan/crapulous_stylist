@@ -1,5 +1,7 @@
 ---
 title: Writing
+layout: category_index
+category_name: writing
 
 ---
 <!--
