@@ -28,3 +28,16 @@ theme_colors:
   - red
   - white
   - yellow
+defaults
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      category_name: ""
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      categories: ""
