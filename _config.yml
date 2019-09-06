@@ -28,7 +28,8 @@ theme_colors:
   - red
   - white
   - yellow
-defaults
+
+defaults:
   -
     scope:
       path: ""
