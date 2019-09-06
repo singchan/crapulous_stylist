@@ -1,9 +1,9 @@
 ---
 layout: home
-permalink: "/"
+permalink: /
 
 ---
-# Athena Jekyll Theme
+# Athena Jekyll Theme x
 
 ## A simple and elegant theme for Jekyll and GitHub Pages.
 
